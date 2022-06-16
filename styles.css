@@ -1,0 +1,38 @@
+body {
+    background: black;
+}
+.contenedor {
+    background-color: white;
+    width: 350px;
+    height: 500px;
+    margin: 0 auto;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.header-left {
+    display: flex;
+}
+p {
+    margin: 0;
+    font-size: 12px;
+}
+.footer-icons {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+.tamaño-icono {
+    font-size: 30px;
+}
+.header-left-icons {
+    margin-right: 10px;
+}
+.footer-text {
+    margin: 10px;
+}
+.footer-text-likes {
+    margin-bottom: 10px;
+}
